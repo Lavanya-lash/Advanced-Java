@@ -5,3 +5,5 @@ ListInterfaceDemo.java o/p link : https://github.com/Lavanya-lash/Advanced-Java/
 p1.java o/p link : https://github.com/Lavanya-lash/Advanced-Java/blob/main/p1.png
 
 p2.java o/p link : https://github.com/Lavanya-lash/Advanced-Java/blob/main/p2.png
+
+p3.java o/p link : https://github.com/Lavanya-lash/Advanced-Java/blob/main/p3.png
