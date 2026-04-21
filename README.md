@@ -7,3 +7,5 @@ p1.java o/p link : https://github.com/Lavanya-lash/Advanced-Java/blob/main/p1.pn
 p2.java o/p link : https://github.com/Lavanya-lash/Advanced-Java/blob/main/p2.png
 
 p3.java o/p link : https://github.com/Lavanya-lash/Advanced-Java/blob/main/p3.png
+
+p4.java o/p link : https://github.com/Lavanya-lash/Advanced-Java/blob/main/p4.png
