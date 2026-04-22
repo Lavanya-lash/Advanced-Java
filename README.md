@@ -38,7 +38,7 @@ ButtonExample.java o/p link : https://github.com/Lavanya-lash/Advanced-Java/blob
 
 ClockGlassDemo.java o/p link : https://github.com/Lavanya-lash/Advanced-Java/blob/main/ClockGlassDemo.png
 
-JListExample.java o/p link :
+JListExample.java o/p link : https://github.com/Lavanya-lash/Advanced-Java/blob/main/TabbedPaneExample.png
 
 TabbedPaneExample.java o/p link :
 
