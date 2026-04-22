@@ -30,7 +30,7 @@ StringHandlingDemo.java o/p link :  https://github.com/Lavanya-lash/Advanced-Jav
 
 StringBuildingFunction1.java o/p link : https://github.com/Lavanya-lash/Advanced-Java/blob/main/StringBuildingFunction1.png
 
-StringBuildingFunction2.java o/p link :
+StringBuildingFunction2.java o/p link : https://github.com/Lavanya-lash/Advanced-Java/blob/main/StringBuildingFunction2.png
 
 SwingExample.java o/p link :
 
