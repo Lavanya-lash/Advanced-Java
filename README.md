@@ -28,7 +28,7 @@ PerformanceTest.java o/p link : https://github.com/Lavanya-lash/Advanced-Java/bl
 
 StringHandlingDemo.java o/p link :  https://github.com/Lavanya-lash/Advanced-Java/blob/main/StringHandlingDemo.png
 
-StringBuildingFunction1.java o/p link :
+StringBuildingFunction1.java o/p link : https://github.com/Lavanya-lash/Advanced-Java/blob/main/StringBuildingFunction1.png
 
 StringBuildingFunction2.java o/p link :
 
