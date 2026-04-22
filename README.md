@@ -38,10 +38,10 @@ ButtonExample.java o/p link : https://github.com/Lavanya-lash/Advanced-Java/blob
 
 ClockGlassDemo.java o/p link : https://github.com/Lavanya-lash/Advanced-Java/blob/main/ClockGlassDemo.png
 
-JListExample.java o/p link : https://github.com/Lavanya-lash/Advanced-Java/blob/main/TabbedPaneExample.png
+JListExample.java o/p link : 
 
-TabbedPaneExample.java o/p link :
+TabbedPaneExample.java o/p link :  https://github.com/Lavanya-lash/Advanced-Java/blob/main/TabbedPaneExample.png
 
-CountryCapitalList.java o/p link :
+CountryCapitalList.java o/p link : https://github.com/Lavanya-lash/Advanced-Java/blob/main/CountryCapitalList.png
 
 TabbedColorPane.java o/p link :
