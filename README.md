@@ -44,4 +44,4 @@ TabbedPaneExample.java o/p link :  https://github.com/Lavanya-lash/Advanced-Java
 
 CountryCapitalList.java o/p link : https://github.com/Lavanya-lash/Advanced-Java/blob/main/CountryCapitalList.png
 
-TabbedColorPane.java o/p link :
+TabbedColorPane.java o/p link : https://github.com/Lavanya-lash/Advanced-Java/blob/main/TabbedColorPane.png
