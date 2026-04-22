@@ -20,7 +20,7 @@ p8.java o/p link : https://github.com/Lavanya-lash/Advanced-Java/blob/main/p8.pn
 
 p9.java o/p link : https://github.com/Lavanya-lash/Advanced-Java/blob/main/p9.png
 
-p10.java o/p link :
+p10.java o/p link : https://github.com/Lavanya-lash/Advanced-Java/blob/main/p10.png
 
 StringHandling.java o/p link :
 
