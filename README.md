@@ -47,3 +47,5 @@ CountryCapitalList.java o/p link : https://github.com/Lavanya-lash/Advanced-Java
 TabbedColorPane.java o/p link : https://github.com/Lavanya-lash/Advanced-Java/blob/main/TabbedColorPane.png
 
 factorial of numbers : https://github.com/Lavanya-lash/Advanced-Java/blob/main/prg7_B.png
+
+PrimeChecker : https://github.com/Lavanya-lash/Advanced-Java/blob/main/prg7_C.png
