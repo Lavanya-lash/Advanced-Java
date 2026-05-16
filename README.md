@@ -60,6 +60,8 @@ welcome.jsp:https://github.com/Lavanya-lash/Advanced-Java/blob/main/prgm9b.png
 
 checksession:https://github.com/Lavanya-lash/Advanced-Java/blob/main/prgm9c.png
 
+UserDataServlet:https://github.com/Lavanya-lash/Advanced-Java/blob/main/prgm10a.png
 
+ResultServlet :https://github.com/Lavanya-lash/Advanced-Java/blob/main/prgm10b.png
 
 
