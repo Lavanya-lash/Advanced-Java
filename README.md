@@ -51,3 +51,5 @@ factorial of numbers : https://github.com/Lavanya-lash/Advanced-Java/blob/main/p
 PrimeChecker : https://github.com/Lavanya-lash/Advanced-Java/blob/main/prg7_C.png
 
 HelloWorldSecond : https://github.com/Lavanya-lash/Advanced-Java/blob/main/prgm7a.png
+
+CookieServlet : https://github.com/Lavanya-lash/Advanced-Java/blob/main/prgm8a.png
